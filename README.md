@@ -15,13 +15,17 @@ MiniSMB provides a single IMG file, you could download it and burn it into your 
 
 ### Free edition vs Paid User
 ```
-+-------------+-----------+-----------------------------------------+
-|             | Free      | Professional                            |
-+-------------+-----------+-----------------------------------------+
-| 1Gbps Link  |  200Kpps  | no limit / $0.5 USD / per port, per day |
-+-------------+-----------+-----------------------------------------+
-| 10Gbps Link |  2Mpps    | no limit / $2 USD / per port, per day   |
-+-------------+-----------+-----------------------------------------+
++-------------+-----------+---------------------+------------------------------------------+
+|             | Free      | Promotion           | Professional                             |
++-------------+-----------+---------------------+------------------------------------------+
+| 1Gbps Link  |  100Kpps  |  500Kpps / 3 months | no limit / $0.5 USD / per port, per day  |
++-------------+-----------+---------------------+------------------------------------------+
+| 10Gbps Link |  1Mpps    |  5Mpps / 3 months   | no limit / $2 USD / per port, per day    |
++-------------+-----------+---------------------+------------------------------------------+
 ```
+* Promotion: if you can invite one of your friends to start using our software for 72 hours, send us your friend's code id,
+             we will send back you a copy of promotion edition after verfied. promotion editon has 3 months license.
+* free / Promotion only support upto two packet generator interfaces
+
 ### Contact
 If you have any questions, please send email to tony.cai@minismb.com
