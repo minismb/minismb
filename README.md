@@ -18,7 +18,7 @@ MiniSMB provides a single IMG file, you could download it and burn it into your 
 +-------------+-----------+------------------------------------------+
 |             | Free      | Professional                             |
 +-------------+-----------+------------------------------------------+
-| 1Gbps Link  |  100Kpps  | no limit / $1 USD / per port, per day    |
+| 1Gbps Link  |  100Kpps  | no limit / $1.5 USD / per port, per day  |
 +-------------+-----------+------------------------------------------+
 | 10Gbps Link |  100kpps  | no limit / $3.5 USD / per port, per day  |
 +-------------+-----------+------------------------------------------+
